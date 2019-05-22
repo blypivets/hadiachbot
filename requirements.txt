@@ -1,0 +1,6 @@
+aiohttp
+certifi
+Babel
+aiogram
+lxml
+requests
